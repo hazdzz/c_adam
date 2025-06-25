@@ -1,6 +1,5 @@
 import math
 import torch
-import warnings
 
 from torch.optim.optimizer import Optimizer, ParamsT
 from torch import Tensor
